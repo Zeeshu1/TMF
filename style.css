@@ -1,6 +1,6 @@
 
  body{
-    background: #93b6d9 url('bg.png') no-repeat center;
+    background: url('black.png') repeat center, url('bg1.png') no-repeat center, linear-gradient(#6198d5, #58baeb);
     margin: 0;
     padding: 0;
     }
