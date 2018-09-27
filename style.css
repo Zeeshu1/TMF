@@ -1,0 +1,22 @@
+ body{
+      background: #a7a8a9 url('bg.png') no-repeat center;
+    }
+    .container{
+      margin-top: 30%;
+      /*margin-left: 15%;*/
+      text-align: -webkit-center;
+     
+    }
+    .container p {
+    font-family: myriad-pro, sans-serif;
+    font-size: 35px;
+    color: #262061;
+    font-weight: bold;
+    font-style: italic;
+    letter-spacing: 5;
+    text-align: left;
+    padding: 0 150px;
+    }
+    .marginLeft{
+      margin-left: 20%;
+    }
